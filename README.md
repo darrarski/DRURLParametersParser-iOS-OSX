@@ -1,5 +1,5 @@
-DRURLParametersParser iOS & OS X Library
-========================================
+DRURLParametersParser for iOS & OS X
+====================================
 
 Helper class for retrieving parameters values from url.
 
